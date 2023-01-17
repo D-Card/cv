@@ -1,0 +1,12 @@
+- company: 'Rede das Novas Licenciaturas - Computer Science Department, Instituto Superior Técnico'
+  roles:
+    - role: Research Initiation Fellowship
+      details: "Responsible for the administration, maintenance and development of the Computer Science Department’s infrastructure, consisting of around thirty servers and seven computer labs, totaling 120 machines. In charge of the upkeep, configuration, and reliable operation of the infrastructure, from network configuration to deployment of end-user services, in a team of two, out of a total of six people."
+      date: "May 2022 -  Present"
+
+- company: Systems Administration Unit - Computational Infrastructures Division, Instituto Superior Técnico
+  roles: 
+    - role: Research Initiation Fellowship
+      details: "Part of a team of around 15 people, I was responsible for different tasks such as maintaining and updating internal servers, developing solutions
+for internal software, user-support and setting up development environments."
+      date: "Jul 2021 - Dec 2021"

@@ -1,0 +1,60 @@
+about:
+  name: Diogo Cardoso
+  tagline: STUDENT, COMPUTER SCIENCE AND ENGINEERING
+  email: me@dcard.pt
+
+skills:
+  - groupName: Programming
+    list:
+      - C
+      - C++
+      - Java
+      - JavaScript
+      - Python
+      - SQL
+      - Shell
+
+  - groupName: OSs
+    list:
+      - Arch
+      - Debian
+      - Gentoo (OpenRC)
+      - Windows
+
+  - groupName: Tools & Software
+    list:
+      - Git
+      - CVS
+      - Docker (& Docker Compose)
+      - Ansible
+      - Vim
+      - VSCode
+      - JunOS
+
+languages:
+  - name: Portuguese
+    level: Native
+
+  - name: English
+    level: C2
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Security Team @ Técnico"
+    date: "Sep 2022 - Present"
+    details: |
+      - Regularly participate in CTFs with the Team.
+  - title: "Scouts"
+    date: "Sep 2009 - Present"
+    details: |
+      - Regularly involved in volunteer work.
+      - Part of the organizing team for the XXI Rovers’ Assembly of Lisbon’s ”Núcleo Oriental” in March 2023. Responsible for the website and socials.
+
+certificates:
+  - title: "Certificate of Proficiency in English (CPE)"
+    subtitle: Cambridge English
+    date: "2018"
+
+  - title: " 5-Year Basic Course, Instrument and Musical Training - Classical Guitar"
+    subtitle: ”Vitorino Matono” Music Institute
+    date: "2016"
