@@ -9,6 +9,9 @@ about:
     - title: D-Card
       url: https://github.com/D-Card
       icon: fab fa-github
+    - title: dcard.pt
+      url: https://dcard.pt
+      icon: fas fa-mouse-pointer
   details: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
     Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
