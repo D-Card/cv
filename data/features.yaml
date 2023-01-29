@@ -27,7 +27,7 @@ skills:
       - JavaScript
       - Python
       - SQL
-      - Shell
+      - Bash
 
   - groupName: OSs
     list:
@@ -38,7 +38,7 @@ skills:
 
   - groupName: Tools & Software
     list:
-      - Git
+      - Git (& GitLab, Github, Gitea)
       - CVS
       - Docker (& Docker Compose)
       - Ansible
@@ -47,7 +47,7 @@ skills:
       - JunOS
 
 languages:
-  - name: Portuguese
+  - name: European Portuguese
     level: Native
 
   - name: English
